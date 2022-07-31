@@ -3,3 +3,44 @@ body {
   height: 100%;
   margin: 0;
 }
+h1{
+  text-align: center;
+}
+img{
+  display: block;
+  margin: auto;
+}
+nav{
+  box-sizing: border-box;
+  margin-left: 20px;
+  padding: 10px;
+  text-align: center;
+  border-radius: 5px;
+  word-spacing: 20px;
+  
+}
+a{
+  display: inline-block;
+
+}
+a:link{
+color: brown;
+}
+#featured-property{
+  text-align: center;
+  font-size: 15px;
+  width: 800px;
+margin-left: 400px;
+}
+#details{
+  box-sizing: border-box;
+  background-color: coral;
+  display: flex;
+  text-align: center;
+  width:100%;
+gap: 300px;
+
+
+
+
+}
